@@ -1,4 +1,3 @@
-#docker
 run docker
 create folder notebook-docker
 upload file susan.ipnyb in folder notebook-docker
